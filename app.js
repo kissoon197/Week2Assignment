@@ -20,6 +20,10 @@ const images = [
     src: `https://wallpaper-house.com/data/out/10/wallpaper2you_442154.jpg`,
     alt: `symbiotic puppy and kitten`,
   },
+  {
+    src: `https://a-static.besthdwallpaper.com/puppy-and-kitten-in-a-basket-wallpaper-1920x1280-28164_38.jpg`,
+    alt: `symbiotic puppy nibbling kitten's ear`,
+  },
 ];
 
 const myImageData = {
