@@ -1,7 +1,7 @@
 Achieved requirements
 
 1. Implementing responsive design methods: I think that my website works well on desktop, and better on mobile phone.
-   https://prnt.sc/Vl67F4_NaxmX - This is a screenshot linking my website as viewed from my mobile phone (Samsung Galaxy S24). It's appearance is up to my personal standards.
+   https://prnt.sc/dS15zqFAGotS - This is a screenshot linking my website as viewed from my mobile phone (Samsung Galaxy S24). It's appearance is up to my personal standards.
 2. By altering the size of some content using e.g 5vh on thumbnails and 100% width view, I was able to change the scale of the images and thumbnails proportionate to screen size, which changes the screen layout depending on accessed platform. I decided to add media queries to change the colour of the website background depending on screen size instead.
 
 @media (max-width: 1024px) {
