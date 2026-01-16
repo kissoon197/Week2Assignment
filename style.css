@@ -54,3 +54,8 @@ footer {
   display: flex;
   justify-content: center;
 }
+@media (max-width: 1024px) {
+  * {
+    background-color: blueviolet;
+  }
+}
