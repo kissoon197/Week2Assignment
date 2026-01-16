@@ -10,15 +10,19 @@ const images = [
   },
   {
     src: `https://cdn.wallpapersafari.com/66/89/LH2IA9.jpg`,
-    alt: `symbiotic dog and duck`,
+    alt: `dog and duck`,
   },
   {
     src: `https://images3.alphacoders.com/104/thumb-1920-104657.jpg`,
-    alt: `symbiotic bunny and puppy`,
+    alt: `bunny and puppy`,
   },
   {
     src: `https://wallpaper-house.com/data/out/10/wallpaper2you_442154.jpg`,
-    alt: `symbiotic puppy and kitten`,
+    alt: `puppy and kitten`,
+  },
+  {
+    src: `https://www.hdwallpapers.in/download/white_dog_and_black_white_cat_kitten_on_green_grass_hd_cats_and_dogs-1920x1080.jpg`,
+    alt: `dog looking at kitten`,
   },
 ];
 
