@@ -13,8 +13,12 @@ const images = [
     alt: `symbiotic dog and duck`,
   },
   {
-    src: `https://images.hdqwalls.com/wallpapers/super-cute-animals.jpg`,
-    alt: `symbiotic bunny and chicks`,
+    src: `https://images3.alphacoders.com/104/thumb-1920-104657.jpg`,
+    alt: `symbiotic bunny and puppy`,
+  },
+  {
+    src: `https://wallpaper-house.com/data/out/10/wallpaper2you_442154.jpg`,
+    alt: `symbiotic puppy and kitten`,
   },
 ];
 
