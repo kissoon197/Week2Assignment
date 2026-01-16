@@ -16,13 +16,19 @@ h1 {
   flex-direction: row;
   justify-content: center;
 }
-.bigDisplay {
+.thumbnails img:hover {
+  opacity: 0.8;
+}
+/* .bigDisplay {
   margin: 0px;
   padding: 0px;
   display: flex;
-  flex-direction: row;
   justify-content: center;
-}
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  object-fit: cover;
+} */
 body {
   margin: 0px;
 }
@@ -31,6 +37,18 @@ p {
   justify-content: center;
 }
 a {
+  display: flex;
+  justify-content: center;
+}
+.niceSize {
+  object-fit: cover;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+  margin: 0px;
+}
+footer {
+  padding: 5px;
   display: flex;
   justify-content: center;
 }

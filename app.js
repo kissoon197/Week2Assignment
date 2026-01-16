@@ -56,10 +56,6 @@ function createBigImage(imageData) {
 
   bigImage.src = imageData.src;
   bigImage.alt = imageData.alt;
-
+  bigImage.setAttribute(`class`, `niceSize`);
   bigDisplay.append(bigImage);
 }
-
-var img = document.getElementById(bigImage);
-var width = img.clientWidth;
-var height = img.clientHeight;
